@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302824029214",
+    "project_id": "smooth-copilot-400313",
+    "storage_bucket": "smooth-copilot-400313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302824029214:android:5ceaed2f8f4ed06eca820f",
+        "android_client_info": {
+          "package_name": "com.example.fluttermap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaCqd6fF7pQ1rky2LoNHxvWDSHw-S9YcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
